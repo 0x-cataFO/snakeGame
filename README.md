@@ -40,8 +40,8 @@ A classic Snake game implementation built to showcase simple gaming mechanics an
 
 ## 🤝 Contributing
 
-    Contributions are welcome! Feel free to fork the repo and submit a pull request.
+Contributions are welcome! Feel free to fork the repo and submit a pull request.
 
 ## ⭐ Acknowledgments
 
-    Inspired by the classic Snake game.
+Inspired by the classic Snake game.
